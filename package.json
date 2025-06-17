@@ -1,0 +1,11 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "A compelet project with hitesh sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Raj",
+  "license": "ISC"
+}
